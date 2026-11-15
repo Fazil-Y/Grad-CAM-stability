@@ -1,0 +1,21 @@
+# Python 3.12 (tested in conda env dl_env)
+# PyTorch with CUDA: install from the official index if not already present, e.g.
+# pip install torch==2.10.0 torchvision==0.25.0 --index-url https://download.pytorch.org/whl/cu130
+torch==2.10.0
+torchvision==0.25.0
+
+grad-cam==1.5.7
+opencv-python-headless==5.0.0.93
+ttach==0.0.3
+
+numpy==2.4.1
+scipy==1.17.0
+scikit-image==0.26.0
+scikit-learn==1.8.0
+pandas==3.0.0
+matplotlib==3.10.8
+pillow==12.1.0
+tqdm==4.67.3
+
+jupyter==1.1.1
+ipykernel==7.1.0
